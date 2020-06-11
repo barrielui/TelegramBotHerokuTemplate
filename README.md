@@ -28,8 +28,8 @@ pip install python-telegram-bot
 
 1. Clone the script. Add the feeds you want to follow.
 2. Create new app on Heroku. Select deployment method as `Connect to GitHub`.
-3. Select the repo. Make sure the repo contains requirements.txt Procfile. They will instruct Heroku to install the required packages and the execution command.
-4. Go to Settings tab > Config Vars. Put the `tg_bot_token` and the `tg_push_channel` there.
-5. Go to Overview tab > Configure Dynos. Change the task to run.
+3. Select the repo. Make sure the repo contains `requirements.txt` and `Procfile`. They will instruct Heroku to install the required packages and the execution command.
+4. Go to `Settings tab > Config Vars`. Put the `tg_bot_token` and the `tg_push_channel` there.
+5. Go to `Overview tab > Configure Dynos`. Change the task to run.
 
 Remarks: It is recommended to stop the Dyno before any git push.
