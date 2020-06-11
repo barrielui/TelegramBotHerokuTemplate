@@ -6,9 +6,9 @@ Improved compatibility with cloud container host. The project can be seamlessly 
 
 ## Set-up with Telegram
 
-1. Create a bot with [BotFather](t.me/BotFather). [doc](https://botsfortelegram.com/project/the-bot-father/)
+1. Create a bot with [BotFather](https://t.me/BotFather). [doc](https://botsfortelegram.com/project/the-bot-father/)
 2. Save the token. Keep it secret.
-3. If you are sending message to a channel, add the bot to the channel and give it permission to send messages. If you are sending message to individual users, obtain the chatID on [https://api.telegram.org/bot<YourBOTToken>/getUpdates]
+3. If you are sending message to a channel, add the bot to the channel and give it permission to send messages. If you are sending message to individual users, obtain the chatID on `https://api.telegram.org/bot<YourBOTToken>/getUpdates`
 Further detail: [https://stackoverflow.com/questions/32423837/telegram-bot-how-to-get-a-group-chat-id]
 
 ## Running on local machine
