@@ -1,5 +1,8 @@
 # TelegramBotHerokuTemplate
-[![Build Status](https://travis-ci.com/barrielui/TelegramBotHerokuTemplate.svg?branch=master)](https://travis-ci.com/barrielui/TelegramBotHerokuTemplate)
+[![Build Status](https://travis-ci.com/barrielui/TelegramBotHerokuTemplate.svg?branch=master)](https://travis-ci.com/barrielui/TelegramBotHerokuTemplate) [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://github.com/barrielui/TelegramBotHerokuTemplate/blob/master/LICENSE)
+
+
+### Please comply with RSS usage terms and conditions
 
 Rebuilt upon NZ-Newsfeed-Telegram with simplified architecture.
 
