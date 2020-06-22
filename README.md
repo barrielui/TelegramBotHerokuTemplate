@@ -1,5 +1,5 @@
 # TelegramBotHerokuTemplate
-![Build Status](https://travis-ci.com/barrielui/TelegramBotHerokuTemplate.svg?branch=master)
+[![Build Status](https://travis-ci.com/barrielui/TelegramBotHerokuTemplate.svg?branch=master)](https://travis-ci.com/barrielui/TelegramBotHerokuTemplate)
 
 Rebuilt upon NZ-Newsfeed-Telegram with simplified architecture.
 
